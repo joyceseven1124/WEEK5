@@ -32,5 +32,14 @@
 ![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/4-3.jpg)
 
 ## 第五題
-### 3.取得 member 資料表中，所有會員 follower_count 欄位的平均數。
-![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/4-3.jpg)
+### 1.在資料庫中，建立新資料表紀錄留⾔資訊，取名字為 message。
+![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/5.jpg)
+
+### 2.使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者會員的姓名。
+![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/5-1.jpg)
+
+### 3.使⽤ SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔，資料中須包含留⾔者會員的姓名。
+![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/5-2.jpg)
+
+### 4.使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔平均按讚數。
+![Image](https://github.com/joyceseven1124/WEEK5/blob/main/week5/5-3.jpg)
